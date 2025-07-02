@@ -107,7 +107,8 @@ Our vision is to create a decentralized ecosystem that empowers both freelancers
 ---
 
 **Built with ❤️ for the decentralized future of work**
+
 Contract Addres:0xf6d107dec56476abef3190ee31fc36a40ed1a3b6
-![image](https://github.com/user-attachments/assets/de03b134-1d6d-4b60-b950-c450ac5d28d2)
+
 ![Screenshot 2025-07-02 232057](https://github.com/user-attachments/assets/27c7b045-8020-46fc-8705-9c35c2bba6c6)
 
