@@ -1,5 +1,5 @@
 {
-  "name":"Decentralized-Freelancing-Platform ",
+  "name": "Decentralized-Freelancing-Platform",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,5 +22,6 @@
     "hardhat": "^2.14.0"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.8.3"
-  }
+    "@openzeppelin/contracts": "^4.8.3"
+  }
+}
